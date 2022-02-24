@@ -1,2 +1,2 @@
 # database-II
-tasks and their solutions
+Database II course assignments at Maribor University during Erasmus+ Exchange Program (FALL 2021-2022)
